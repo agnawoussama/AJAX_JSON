@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Sandy",
+        "species": "cat",
+        "foods": {
+            "likes": [
+                "Berries",
+                "Fish",
+                "Eggs"
+            ],
+            "dislikes": [
+                "Chocolate",
+                "Onions"
+            ]
+        }
+    },
+    {
+        "name": "Zeus",
+        "species": "dog",
+        "foods": {
+            "likes": [
+                "Chicken",
+                "beef",
+                "Vegetables"
+            ],
+            "dislikes": [
+                "Hot Peppers",
+                "Mothballs"
+            ]
+        }
+    },
+    {
+        "name": "Baxster",
+        "species": "turtoise",
+        "foods": {
+            "likes": [
+                "kale"
+            ],
+            "dislikes": [
+                "Sulcata"
+            ]
+        }
+    }
+]
